@@ -12,7 +12,8 @@
 				PIKA BOO
 			</tr>
 			<tr>
-				<td>BoB</td>
+				<td>Martin</td>
+				<td>Zářecký</td>
 			</tr>
 		</table>
 	</body>
